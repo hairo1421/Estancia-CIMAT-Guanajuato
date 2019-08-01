@@ -12,5 +12,5 @@ En este reporsitorio se encuentran los notebook realizados en dicha estancia, do
 
 #### Notebooks
 * 1- Trabajo CIMAT: TF-IDF, Word2Vec de Google y Twitter ; Redes Neuronales y Máquina de soporte vectorial (SVM)
-* 2- Trabajo CIMAT CNN multicanal, CNN pesos entrenables de W2V google, CNN pesos fijos de W2V google
-* 3- Trabajo CIMAT CNN, CNN-SVM, LSTM
+* 2- Trabajo CIMAT: CNN multicanal, CNN pesos entrenables de W2V google, CNN pesos fijos de W2V google
+* 3- Trabajo CIMAT: CNN, CNN-SVM, LSTM
